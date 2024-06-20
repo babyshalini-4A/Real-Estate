@@ -1,0 +1,31 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.parent{
+    position: fixed;
+    top: -2%;
+    left: -1%;
+    right: -1%;
+}
+.p1{
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    gap: 250px;
+    margin: 10px;
+    padding: 10px;
+    background-color: darkslategrey;
+    border-radius: 10px;
+    top: 2%;
+    left: 10%;
+    box-shadow: 1px 1px 15px rgb(2, 179, 203);
+}
+.c2>button{
+    margin: 5px;
+    margin-left: 20px;
+    color: black;
+    background-color: rgb(169, 135, 63);
+    
+}

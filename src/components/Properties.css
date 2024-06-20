@@ -1,0 +1,49 @@
+.properties{
+    display: inline;
+    left: -10%;
+    width: 100%;
+    justify-content: center;
+    gap: 10px;
+
+  }
+  .child{
+    border: 1px solid grey;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+    width: 1200px;
+    height: 450px;
+    background-color:#213547;
+    display: flex;
+    margin-top: 50px;
+  }
+  .child>img{
+    width: 35em;
+    height: 26.8em;
+    border-radius: 20px;
+  }
+  .child1{
+    position: relative;
+    left: 10%;
+    top: 10%;
+  }
+  .child1 h2{
+    color: orange;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+  }
+  .child1 p{
+    font-size: 28px;
+  color: wheat;
+  font-weight: bold;
+  }
+  .child1 h6{
+    color: white;
+    font-size: 20px;
+  }
+  .child1 h4{
+    color: orange;
+    font-size: 25px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: oblique;
+  }

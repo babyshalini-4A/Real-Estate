@@ -1,0 +1,74 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.container2{
+    margin-top: 100px;
+    margin-left: 10px;
+    height: 45rem;
+    width: 80rem;
+    margin-bottom: 20px;
+    padding: 20px;
+  }
+  
+  .container h1{
+    font-size: 50px;
+    margin-bottom: 500px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+  }
+  
+  .mainService{
+    border: 1px solid black;
+    background-color: white;
+    box-shadow: 1px 1px 15px rgb(2, 179, 203);
+    border-radius: 20px;
+    height: 84%;
+    width: 90%;
+  }
+  
+  .stype{
+    padding: 45px;
+    padding-right: 0px;
+    display: flex;
+  }
+  .stype p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: #e06f3b;
+    font-weight: bold;
+  }
+  
+  .dropdown{
+    width: 38rem;
+    height: 3rem;
+    margin-left: 50px;
+  }
+  
+  .dropdown select {
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    height: 100%;
+    width: 100%;
+  }
+  
+  .exp{
+    padding: 25px; 
+    margin: 25px;
+    display: flex;
+  }
+  .exp p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: #e06f3b;
+    font-weight: bold;
+  }
+  
+  .exp textarea{
+    margin: 10px;
+    border-radius: 10px;
+    margin-left: 9rem;
+    height: 10rem;
+    width: 40rem;
+  } 
